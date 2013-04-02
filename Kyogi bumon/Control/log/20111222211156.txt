@@ -1,0 +1,12 @@
+2011/12/22 21:12:01	::1	GET	http://localhost/CheckParameters?PlayerID=308685860
+2011/12/22 21:14:46	::1	GET	http://localhost/CheckParameters?PlayerID=308685860
+2011/12/22 21:16:17	::1	GET	http://localhost/CheckParameters?PlayerID=308685860
+2011/12/22 21:16:18	::1	GET	http://localhost/CheckParameters?PlayerID=308685860
+2011/12/22 21:16:20	::1	GET	http://localhost/CheckParameters?PlayerID=308685860
+2011/12/22 21:16:56	::1	GET	http://localhost/CheckParameters?PlayerID=308685860
+2011/12/22 21:18:33	::1	GET	http://localhost/CheckParameters?PlayerID=308685860
+2011/12/22 21:33:55	::1	GET	http://localhost/CheckParameters?PlayerID=308685860
+2011/12/22 21:33:58	::1	GET	http://localhost/GetProblem?ProblemNumber=0
+2011/12/22 21:38:26	::1	GET	http://localhost/CheckParameters?PlayerID=308685860
+2011/12/22 21:40:11	::1	GET	http://localhost/CheckParameters?PlayerID=308685860
+2011/12/22 21:42:33	::1	GET	http://localhost/CheckParameters?PlayerID=308685860

@@ -1,0 +1,6 @@
+2011/12/22 21:51:07	::1	GET	http://localhost/CheckParameters?PlayerID=308685860
+2011/12/22 21:55:41	::1	GET	http://localhost/CheckParameters?PlayerID=308685860
+2011/12/22 21:56:21	::1	GET	http://localhost/CheckParameters?PlayerID=308685860
+2011/12/22 22:03:01	::1	GET	http://localhost/CheckParameters?PlayerID=308685860
+2011/12/22 22:03:10	::1	GET	http://localhost/GetProblem?ProblemNumber=0
+2011/12/22 22:03:17	::1	GET	http://localhost/GetProblem?ProblemNumber=0

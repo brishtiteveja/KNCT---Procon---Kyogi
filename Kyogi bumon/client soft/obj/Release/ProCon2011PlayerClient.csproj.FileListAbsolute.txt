@@ -1,0 +1,22 @@
+C:\Users\kyogi1\Desktop\kyogi_net 1221_21 要動作確認\bin\Release\ProCon2011PlayerClient.exe.config
+C:\Users\kyogi1\Desktop\kyogi_net 1221_21 要動作確認\bin\Release\ProCon2011PlayerClient.exe
+C:\Users\kyogi1\Desktop\kyogi_net 1221_21 要動作確認\obj\Release\ResolveAssemblyReference.cache
+C:\Users\kyogi1\Desktop\kyogi_net 1221_21 要動作確認\obj\Release\ProCon2011PlayerClient.ClientForm.resources
+C:\Users\kyogi1\Desktop\kyogi_net 1221_21 要動作確認\obj\Release\ProCon2011PlayerClient.Properties.Resources.resources
+C:\Users\kyogi1\Desktop\kyogi_net 1221_21 要動作確認\obj\Release\ProCon2011PlayerClient.exe
+C:\Users\kyogi1\Desktop\kyogi_net 1221_21\bin\Release\ProCon2011PlayerClient.exe.config
+C:\Users\kyogi1\Desktop\kyogi_net 1221_21\obj\Release\ProCon2011PlayerClient.exe
+C:\Users\kyogi1\Desktop\kyogi_net 1221_21\bin\Release\ProCon2011PlayerClient.exe
+C:\Users\kyogi1\Desktop\kyogi_net 1221_21\obj\Release\ResolveAssemblyReference.cache
+C:\Users\kyogi1\Desktop\kyogi_net 1221_21\obj\Release\ProCon2011PlayerClient.ClientForm.resources
+C:\Users\kyogi1\Desktop\kyogi_net 1221_21\obj\Release\ProCon2011PlayerClient.Properties.Resources.resources
+C:\Users\kyogi1\Desktop\kyogi_net 1221_21\obj\Release\ResGen.read.1.tlog
+C:\Users\kyogi1\Desktop\kyogi_net 1221_21\obj\Release\ResGen.write.1.tlog
+C:\Users\kyogi1\Desktop\0110 再現\client ソース\bin\Release\ProCon2011PlayerClient.exe.config
+C:\Users\kyogi1\Desktop\0110 再現\client ソース\obj\Release\ProCon2011PlayerClient.exe
+C:\Users\kyogi1\Desktop\0110 再現\client ソース\bin\Release\ProCon2011PlayerClient.exe
+C:\Users\kyogi1\Desktop\0110 再現\client ソース\obj\Release\ResolveAssemblyReference.cache
+C:\Users\kyogi1\Desktop\0110 再現\client ソース\obj\Release\ProCon2011PlayerClient.ClientForm.resources
+C:\Users\kyogi1\Desktop\0110 再現\client ソース\obj\Release\ProCon2011PlayerClient.Properties.Resources.resources
+C:\Users\kyogi1\Desktop\0110 再現\client ソース\obj\Release\ResGen.read.1.tlog
+C:\Users\kyogi1\Desktop\0110 再現\client ソース\obj\Release\ResGen.write.1.tlog

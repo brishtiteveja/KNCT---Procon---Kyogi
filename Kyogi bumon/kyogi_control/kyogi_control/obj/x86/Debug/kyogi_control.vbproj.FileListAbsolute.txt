@@ -1,0 +1,47 @@
+c:\users\kyogi2\documents\visual studio 2010\Projects\kyogi_control\kyogi_control\bin\Debug\kyogi_control.exe
+c:\users\kyogi2\documents\visual studio 2010\Projects\kyogi_control\kyogi_control\bin\Debug\kyogi_control.pdb
+c:\users\kyogi2\documents\visual studio 2010\Projects\kyogi_control\kyogi_control\bin\Debug\kyogi_control.xml
+c:\users\kyogi2\documents\visual studio 2010\Projects\kyogi_control\kyogi_control\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\kyogi2\documents\visual studio 2010\Projects\kyogi_control\kyogi_control\obj\x86\Debug\kyogi_control.Form1.resources
+c:\users\kyogi2\documents\visual studio 2010\Projects\kyogi_control\kyogi_control\obj\x86\Debug\kyogi_control.Resources.resources
+c:\users\kyogi2\documents\visual studio 2010\Projects\kyogi_control\kyogi_control\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\kyogi2\documents\visual studio 2010\Projects\kyogi_control\kyogi_control\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\kyogi2\documents\visual studio 2010\Projects\kyogi_control\kyogi_control\obj\x86\Debug\kyogi_control.exe
+c:\users\kyogi2\documents\visual studio 2010\Projects\kyogi_control\kyogi_control\obj\x86\Debug\kyogi_control.xml
+c:\users\kyogi2\documents\visual studio 2010\Projects\kyogi_control\kyogi_control\obj\x86\Debug\kyogi_control.pdb
+C:\Users\kyogi2\Desktop\kyogi_control\kyogi_control\obj\x86\Debug\kyogi_control.exe
+C:\Users\kyogi2\Desktop\kyogi_control\kyogi_control\obj\x86\Debug\kyogi_control.xml
+C:\Users\kyogi2\Desktop\kyogi_control\kyogi_control\obj\x86\Debug\kyogi_control.pdb
+C:\Users\kyogi2\Desktop\kyogi_control\kyogi_control\bin\Debug\kyogi_control.exe
+C:\Users\kyogi2\Desktop\kyogi_control\kyogi_control\bin\Debug\kyogi_control.pdb
+C:\Users\kyogi2\Desktop\kyogi_control\kyogi_control\bin\Debug\kyogi_control.xml
+C:\Users\kyogi2\Desktop\kyogi_control\kyogi_control\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\kyogi2\Desktop\kyogi_control\kyogi_control\obj\x86\Debug\kyogi_control.Form1.resources
+C:\Users\kyogi2\Desktop\kyogi_control\kyogi_control\obj\x86\Debug\kyogi_control.Resources.resources
+C:\Users\kyogi2\Desktop\kyogi_control\kyogi_control\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\kyogi2\Desktop\kyogi_control\kyogi_control\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\kyogi_public\kyogi_final_test\kyogi_control\kyogi_control\obj\x86\Debug\kyogi_control.exe
+C:\kyogi_public\kyogi_final_test\kyogi_control\kyogi_control\obj\x86\Debug\kyogi_control.xml
+C:\kyogi_public\kyogi_final_test\kyogi_control\kyogi_control\obj\x86\Debug\kyogi_control.pdb
+C:\kyogi_public\kyogi_final_test\kyogi_control\kyogi_control\bin\Debug\kyogi_control.exe
+C:\kyogi_public\kyogi_final_test\kyogi_control\kyogi_control\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\kyogi_public\kyogi_final_test\kyogi_control\kyogi_control\obj\x86\Debug\kyogi_control.Form1.resources
+C:\kyogi_public\kyogi_final_test\kyogi_control\kyogi_control\obj\x86\Debug\kyogi_control.Resources.resources
+C:\kyogi_public\kyogi_final_test\kyogi_control\kyogi_control\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\kyogi_public\kyogi_final_test\kyogi_control\kyogi_control\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\kyogi_public\kyogi_final_test\kyogi_control\kyogi_control\bin\Debug\kyogi_control.pdb
+C:\kyogi_public\kyogi_final_test\kyogi_control\kyogi_control\bin\Debug\kyogi_control.xml
+C:\kyogi_public\kyogi_final_test\kyogi_control - コピー\kyogi_control\obj\x86\Debug\kyogi_control.exe
+C:\kyogi_public\kyogi_final_test\kyogi_control - コピー\kyogi_control\obj\x86\Debug\kyogi_control.xml
+C:\kyogi_public\kyogi_final_test\kyogi_control - コピー\kyogi_control\obj\x86\Debug\kyogi_control.pdb
+C:\kyogi_public\kyogi_final_test\kyogi_control - コピー\kyogi_control\bin\Debug\kyogi_control.exe
+C:\kyogi_public\kyogi_final_test\kyogi_control - コピー\kyogi_control\bin\Debug\kyogi_control.pdb
+C:\kyogi_public\kyogi_final_test\kyogi_control - コピー\kyogi_control\bin\Debug\kyogi_control.xml
+C:\kyogi_public\kyogi_final_test\kyogi_control - コピー\kyogi_control\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\kyogi_public\kyogi_final_test\kyogi_control - コピー\kyogi_control\obj\x86\Debug\kyogi_control.Form1.resources
+C:\kyogi_public\kyogi_final_test\kyogi_control - コピー\kyogi_control\obj\x86\Debug\kyogi_control.Resources.resources
+C:\kyogi_public\kyogi_final_test\kyogi_control - コピー\kyogi_control\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\kyogi_public\kyogi_final_test\kyogi_control - コピー\kyogi_control\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\kyogi1\Desktop\kyogi_control - コピー\kyogi_control\obj\x86\Debug\kyogi_control.exe
+C:\Users\kyogi1\Desktop\kyogi_control - コピー\kyogi_control\obj\x86\Debug\kyogi_control.xml
+C:\Users\kyogi1\Desktop\kyogi_control - コピー\kyogi_control\obj\x86\Debug\kyogi_control.pdb

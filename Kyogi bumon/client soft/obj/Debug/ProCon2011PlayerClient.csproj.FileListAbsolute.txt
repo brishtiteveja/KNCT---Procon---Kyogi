@@ -1,0 +1,78 @@
+C:\Users\渡邊裕輝\Desktop\練習用簡易システム\回答提出クライアント_ver.1.0_ソースコード\bin\Debug\ProCon2011PlayerClient.exe.config
+C:\Users\渡邊裕輝\Desktop\練習用簡易システム\回答提出クライアント_ver.1.0_ソースコード\bin\Debug\ProCon2011PlayerClient.exe
+C:\Users\渡邊裕輝\Desktop\練習用簡易システム\回答提出クライアント_ver.1.0_ソースコード\bin\Debug\ProCon2011PlayerClient.pdb
+C:\Users\渡邊裕輝\Desktop\練習用簡易システム\回答提出クライアント_ver.1.0_ソースコード\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\渡邊裕輝\Desktop\練習用簡易システム\回答提出クライアント_ver.1.0_ソースコード\obj\Debug\ProCon2011PlayerClient.ClientForm.resources
+C:\Users\渡邊裕輝\Desktop\練習用簡易システム\回答提出クライアント_ver.1.0_ソースコード\obj\Debug\ProCon2011PlayerClient.Properties.Resources.resources
+C:\Users\渡邊裕輝\Desktop\練習用簡易システム\回答提出クライアント_ver.1.0_ソースコード\obj\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Users\渡邊裕輝\Desktop\練習用簡易システム\回答提出クライアント_ver.1.0_ソースコード\obj\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Users\渡邊裕輝\Desktop\練習用簡易システム\回答提出クライアント_ver.1.0_ソースコード\obj\Debug\ProCon2011PlayerClient.exe
+C:\Users\渡邊裕輝\Desktop\練習用簡易システム\回答提出クライアント_ver.1.0_ソースコード\obj\Debug\ProCon2011PlayerClient.pdb
+C:\Users\kyogi1\Desktop\練習用簡易システム\kyogi_net 1128\bin\Debug\ProCon2011PlayerClient.exe.config
+C:\Users\kyogi1\Desktop\練習用簡易システム\kyogi_net 1128\obj\Debug\ProCon2011PlayerClient.exe
+C:\Users\kyogi1\Desktop\練習用簡易システム\kyogi_net 1128\obj\Debug\ProCon2011PlayerClient.pdb
+C:\Users\kyogi1\Desktop\練習用簡易システム\kyogi_net 1128\bin\Debug\ProCon2011PlayerClient.exe
+C:\Users\kyogi1\Desktop\練習用簡易システム\kyogi_net 1128\bin\Debug\ProCon2011PlayerClient.pdb
+C:\Users\kyogi1\Desktop\練習用簡易システム\kyogi_net 1128\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\kyogi1\Desktop\練習用簡易システム\kyogi_net 1128\obj\Debug\ProCon2011PlayerClient.ClientForm.resources
+C:\Users\kyogi1\Desktop\練習用簡易システム\kyogi_net 1128\obj\Debug\ProCon2011PlayerClient.Properties.Resources.resources
+C:\Users\kyogi1\Desktop\練習用簡易システム\kyogi_net 1128\obj\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Users\kyogi1\Desktop\練習用簡易システム\kyogi_net 1128\obj\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Users\渡邊裕輝\Desktop\競技2011\kyogi_net 1218\bin\Debug\ProCon2011PlayerClient.exe.config
+C:\Users\渡邊裕輝\Desktop\競技2011\kyogi_net 1218\obj\Debug\ProCon2011PlayerClient.exe
+C:\Users\渡邊裕輝\Desktop\競技2011\kyogi_net 1218\obj\Debug\ProCon2011PlayerClient.pdb
+C:\Users\渡邊裕輝\Desktop\競技2011\kyogi_net 1218\bin\Debug\ProCon2011PlayerClient.exe
+C:\Users\渡邊裕輝\Desktop\競技2011\kyogi_net 1218\bin\Debug\ProCon2011PlayerClient.pdb
+C:\Users\渡邊裕輝\Desktop\競技2011\kyogi_net 1218\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\渡邊裕輝\Desktop\競技2011\kyogi_net 1218\obj\Debug\ProCon2011PlayerClient.ClientForm.resources
+C:\Users\渡邊裕輝\Desktop\競技2011\kyogi_net 1218\obj\Debug\ProCon2011PlayerClient.Properties.Resources.resources
+C:\Users\渡邊裕輝\Desktop\競技2011\kyogi_net 1218\obj\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Users\渡邊裕輝\Desktop\競技2011\kyogi_net 1218\obj\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Users\kyogi1\Desktop\kyogi_net 1219\bin\Debug\ProCon2011PlayerClient.exe.config
+C:\Users\kyogi1\Desktop\kyogi_net 1219\obj\Debug\ProCon2011PlayerClient.exe
+C:\Users\kyogi1\Desktop\kyogi_net 1219\obj\Debug\ProCon2011PlayerClient.pdb
+C:\Users\kyogi1\Desktop\kyogi_net 1219\bin\Debug\ProCon2011PlayerClient.exe
+C:\Users\kyogi1\Desktop\kyogi_net 1219\bin\Debug\ProCon2011PlayerClient.pdb
+C:\Users\kyogi1\Desktop\kyogi_net 1219\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\kyogi1\Desktop\kyogi_net 1219\obj\Debug\ProCon2011PlayerClient.ClientForm.resources
+C:\Users\kyogi1\Desktop\kyogi_net 1219\obj\Debug\ProCon2011PlayerClient.Properties.Resources.resources
+C:\Users\kyogi1\Desktop\kyogi_net 1219\obj\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Users\kyogi1\Desktop\kyogi_net 1219\obj\Debug\ResGen.read.1.tlog
+C:\Users\kyogi1\Desktop\kyogi_net 1219\obj\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Users\kyogi1\Desktop\kyogi_net 1219\obj\Debug\ResGen.write.1.tlog
+C:\Users\kyogi1\Desktop\kyogi_net 1219 - コピー\bin\Debug\ProCon2011PlayerClient.exe.config
+C:\Users\kyogi1\Desktop\kyogi_net 1219 - コピー\obj\Debug\ProCon2011PlayerClient.exe
+C:\Users\kyogi1\Desktop\kyogi_net 1219 - コピー\obj\Debug\ProCon2011PlayerClient.pdb
+C:\Users\kyogi1\Desktop\kyogi_net 1219 - コピー\bin\Debug\ProCon2011PlayerClient.exe
+C:\Users\kyogi1\Desktop\kyogi_net 1219 - コピー\bin\Debug\ProCon2011PlayerClient.pdb
+C:\Users\kyogi1\Desktop\kyogi_net 1219 - コピー\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\kyogi1\Desktop\kyogi_net 1219 - コピー\obj\Debug\ProCon2011PlayerClient.ClientForm.resources
+C:\Users\kyogi1\Desktop\kyogi_net 1219 - コピー\obj\Debug\ProCon2011PlayerClient.Properties.Resources.resources
+C:\Users\kyogi1\Desktop\kyogi_net 1219 - コピー\obj\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Users\kyogi1\Desktop\kyogi_net 1219 - コピー\obj\Debug\ResGen.read.1.tlog
+C:\Users\kyogi1\Desktop\kyogi_net 1219 - コピー\obj\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Users\kyogi1\Desktop\kyogi_net 1219 - コピー\obj\Debug\ResGen.write.1.tlog
+C:\Users\kyogi1\Desktop\kyogi_net 1221_21 要動作確認\bin\Debug\ProCon2011PlayerClient.exe.config
+C:\Users\kyogi1\Desktop\kyogi_net 1221_21 要動作確認\obj\Debug\ProCon2011PlayerClient.exe
+C:\Users\kyogi1\Desktop\kyogi_net 1221_21 要動作確認\obj\Debug\ProCon2011PlayerClient.pdb
+C:\Users\kyogi1\Desktop\kyogi_net 1221_21 要動作確認\bin\Debug\ProCon2011PlayerClient.exe
+C:\Users\kyogi1\Desktop\kyogi_net 1221_21 要動作確認\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\kyogi1\Desktop\kyogi_net 1221_21 要動作確認\obj\Debug\ProCon2011PlayerClient.ClientForm.resources
+C:\Users\kyogi1\Desktop\kyogi_net 1221_21 要動作確認\obj\Debug\ProCon2011PlayerClient.Properties.Resources.resources
+C:\Users\kyogi1\Desktop\kyogi_net 1221_21 要動作確認\obj\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Users\kyogi1\Desktop\kyogi_net 1221_21 要動作確認\obj\Debug\ResGen.read.1.tlog
+C:\Users\kyogi1\Desktop\kyogi_net 1221_21 要動作確認\obj\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Users\kyogi1\Desktop\kyogi_net 1221_21 要動作確認\obj\Debug\ResGen.write.1.tlog
+C:\Users\kyogi1\Desktop\kyogi_net 1221_21 要動作確認\bin\Debug\ProCon2011PlayerClient.pdb
+C:\Users\kyogi1\Desktop\kyogi_net 1221_21\bin\Debug\ProCon2011PlayerClient.exe.config
+C:\Users\kyogi1\Desktop\kyogi_net 1221_21\obj\Debug\ProCon2011PlayerClient.exe
+C:\Users\kyogi1\Desktop\kyogi_net 1221_21\obj\Debug\ProCon2011PlayerClient.pdb
+C:\Users\kyogi1\Desktop\kyogi_net 1221_21\bin\Debug\ProCon2011PlayerClient.exe
+C:\Users\kyogi1\Desktop\kyogi_net 1221_21\bin\Debug\ProCon2011PlayerClient.pdb
+C:\Users\kyogi1\Desktop\kyogi_net 1221_21\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\kyogi1\Desktop\kyogi_net 1221_21\obj\Debug\ProCon2011PlayerClient.ClientForm.resources
+C:\Users\kyogi1\Desktop\kyogi_net 1221_21\obj\Debug\ProCon2011PlayerClient.Properties.Resources.resources
+C:\Users\kyogi1\Desktop\kyogi_net 1221_21\obj\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Users\kyogi1\Desktop\kyogi_net 1221_21\obj\Debug\ResGen.read.1.tlog
+C:\Users\kyogi1\Desktop\kyogi_net 1221_21\obj\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Users\kyogi1\Desktop\kyogi_net 1221_21\obj\Debug\ResGen.write.1.tlog

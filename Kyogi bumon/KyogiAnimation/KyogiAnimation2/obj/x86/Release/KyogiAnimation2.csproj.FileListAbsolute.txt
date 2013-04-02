@@ -1,0 +1,13 @@
+C:\Users\kyogi1\Desktop\0110 再現\KyogiAnimation 1回戦\KyogiAnimation2\bin\Release\KyogiAnimation2.exe
+C:\Users\kyogi1\Desktop\0110 再現\KyogiAnimation 1回戦\KyogiAnimation2\bin\Release\KyogiAnimation2.pdb
+C:\Users\kyogi1\Desktop\0110 再現\KyogiAnimation 1回戦\KyogiAnimation2\bin\Release\ConvertImage.dll
+C:\Users\kyogi1\Desktop\0110 再現\KyogiAnimation 1回戦\KyogiAnimation2\bin\Release\ConvertImage.pdb
+C:\Users\kyogi1\Desktop\0110 再現\KyogiAnimation 1回戦\KyogiAnimation2\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\kyogi1\Desktop\0110 再現\KyogiAnimation 1回戦\KyogiAnimation2\obj\x86\Release\KyogiAnimation2.DiscordForm.resources
+C:\Users\kyogi1\Desktop\0110 再現\KyogiAnimation 1回戦\KyogiAnimation2\obj\x86\Release\KyogiAnimation2.MainForm.resources
+C:\Users\kyogi1\Desktop\0110 再現\KyogiAnimation 1回戦\KyogiAnimation2\obj\x86\Release\KyogiAnimation2.PictureForm.resources
+C:\Users\kyogi1\Desktop\0110 再現\KyogiAnimation 1回戦\KyogiAnimation2\obj\x86\Release\KyogiAnimation2.Properties.Resources.resources
+C:\Users\kyogi1\Desktop\0110 再現\KyogiAnimation 1回戦\KyogiAnimation2\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Users\kyogi1\Desktop\0110 再現\KyogiAnimation 1回戦\KyogiAnimation2\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Users\kyogi1\Desktop\0110 再現\KyogiAnimation 1回戦\KyogiAnimation2\obj\x86\Release\KyogiAnimation2.exe
+C:\Users\kyogi1\Desktop\0110 再現\KyogiAnimation 1回戦\KyogiAnimation2\obj\x86\Release\KyogiAnimation2.pdb
